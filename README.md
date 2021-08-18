@@ -16,7 +16,7 @@
 
 ## The Task
 
-1) Create a (react/vue) productity app using the vue cli
+1) Create a productity app using Vuejs or React
    1) Use [Vuex](https://vuex.vuejs.org/) or similar for state management
 2) The app will have 3 components
    1) A simple todo component
