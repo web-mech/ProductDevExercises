@@ -1,4 +1,6 @@
 # ProductDevExercises
+> Welcome to the The Block Product developer exercise! This exercise is here to get you acquainted with a small sample of what we do and for us to get acquainted with your skills. It should take no more than an hour of your time.
+
 
 ## Some guidance
 
