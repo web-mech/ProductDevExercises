@@ -15,7 +15,7 @@
 ## The Task
 
 1) Create a VueJS productity app using the vue cli
-  a) Use [Vuex](https://vuex.vuejs.org/) for state management
+   1) Use [Vuex](https://vuex.vuejs.org/) for state management
 2) The app will have 3 components
    1) A simple todo component
    1) A simple calculator component
